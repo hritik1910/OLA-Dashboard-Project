@@ -32,3 +32,6 @@ To transform raw OLA ride-booking data into an interactive dashboard that provid
 My dashboard looks like.
 (https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%201.png).
 (https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%202.png).
+(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%203.png).
+(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%204.png).
+(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%205.png).
