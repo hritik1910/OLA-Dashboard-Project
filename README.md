@@ -1,2 +1,7 @@
-# OLA-Dashboard-Project
-Developed an interactive ride-booking analytics dashboard to track total bookings, booking value, booking status, and ride trends over time. The dashboard provides insights into vehicle types, revenue, cancellations, and customer ratings for better business decision-making.
+# OLA Ride Booking
+# Tech Stack
+Microsoft Excel – Data cleaning and preparation
+Microsoft Power BI – Dashboard development and interactive visualization
+Power Query – Data transformation and preprocessing
+DAX – Calculated measures and business metrics
+Data Visualization – Charts, KPI cards, tables, slicers, and interactive filters
