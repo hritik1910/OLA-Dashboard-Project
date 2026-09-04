@@ -1,5 +1,5 @@
 # OLA Ride Booking
-# 1. Tech Stack
+## 1. Tech Stack
 • 📈 Microsoft Excel – Data cleaning and preparation
 • 📊 Microsoft Power BI – Dashboard development and interactive visualization
 • 📂 Power Query – Data transformation and preprocessing
