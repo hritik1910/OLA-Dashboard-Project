@@ -29,4 +29,4 @@ The dashboard helps identify successful booking trends, high-performing vehicle 
 To transform raw OLA ride-booking data into an interactive dashboard that provides clear insights into bookings, revenue, vehicle performance, cancellations, ride distance, and customer and driver ratings for effective data-driven decision-making.
 
 # 5. Screenshots
-Example: ![Dashboard Preview].
+Example: ![Dashboard Preview].(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%201.png).
