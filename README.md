@@ -7,10 +7,10 @@
 • 📝 Data Visualization – Charts, KPI cards, tables, slicers, and interactive filters
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-# 2. Short Description
+## 2. Short Description
 An interactive OLA ride analytics dashboard designed to analyze booking performance, vehicle-wise trends, revenue, cancellations, ride distance, and customer/driver ratings. It helps transform raw ride data into actionable insights for better operational and business decision-making.
 
-# 3. Features / Highlights
+## 3. Features / Highlights
 Goal of the Dashboard
 The dashboard provides an interactive and centralized view of OLA ride data, helping users analyze overall business performance and make data-driven decisions.
 
@@ -25,9 +25,9 @@ Key Visuals
 Business Impact & Insights
 The dashboard helps identify successful booking trends, high-performing vehicle types, preferred payment methods, major cancellation reasons, and service quality through ratings. These insights can support better operational planning, revenue optimization, customer experience, and business decision-making.
 
-# 4. Goal of the Dashboard
+## 4. Goal of the Dashboard
 To transform raw OLA ride-booking data into an interactive dashboard that provides clear insights into bookings, revenue, vehicle performance, cancellations, ride distance, and customer and driver ratings for effective data-driven decision-making.
 
 ### 5. Screenshots
-Show. - ![Alt Text](https://github.com/username/repo/assets/image.png).
+
 Example: ![Dashboard Preview].(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%201.png).
