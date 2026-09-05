@@ -5,7 +5,7 @@
 • 📂 Power Query – Data transformation and preprocessing
 • 🧠 DAX – Calculated measures and business metrics
 • 📝 Data Visualization – Charts, KPI cards, tables, slicers, and interactive filters
-•	📁 File Format – .pbix for development and .png for dashboard previews.
+•	📁 File Format – .pbit for development and .png for dashboard previews.
 
 ## 2. Short Description
 An interactive OLA ride analytics dashboard designed to analyze booking performance, vehicle-wise trends, revenue, cancellations, ride distance, and customer/driver ratings. It helps transform raw ride data into actionable insights for better operational and business decision-making.
