@@ -34,4 +34,6 @@ My dashboard looks like.
 ![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%202.png).
 ![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%203.png).
 ![Alt Txet](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%204.png).
-![Alt Text}(https://github.com/hritik1910/OLA-Dashboard-Project/blob/183fc2c9d8403a96990e0bcc05150044d409a607/Slide%205.png).
+![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/183fc2c9d8403a96990e0bcc05150044d409a607/Slide%205.png).
+
+## End of Project. Let's connect through mail. You can Send Your suggestions or ideas or opportunities there. Thank You
