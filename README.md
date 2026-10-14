@@ -33,5 +33,5 @@ My dashboard looks like.
 ![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%201.png).
 ![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%202.png).
 ![Alt Text](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%203.png).
-(https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%204.png).
+![Alt Txet](https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%204.png).
 (https://github.com/hritik1910/OLA-Dashboard-Project/blob/main/Slide%205.png).
